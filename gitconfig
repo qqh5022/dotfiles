@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = qqh5022@gmail.com
+	name = Qihang Huang
